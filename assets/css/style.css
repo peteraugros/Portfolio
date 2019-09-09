@@ -96,16 +96,64 @@ a:hover{
     padding: 5px; 
 }
 
-
-
-/* .contactText{
+/* css for portfolio */
+#port{
+    position: relative;
+    width: 960px;
+    height: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    top: 40px;
+    background-color: #d4d6d9;
+    border: 1px solid #cccccc;
+    color: #4aaaa5;
+}
+#img1{
     position: absolute;
-    left: 30px;
+    top: 200px;
+    left: 200px;
+    width: 200px;
+    height: 200px;
 }
 
-input{
+#img2{
     position: absolute;
-    left: 30px;
-    top: 150px;
+    top: 200px;
+    right: 200px;
+    width: 200px;
+    height: 200px;
+}
 
-} */
+#img3{
+    position: absolute;
+    top: 500px;
+    right: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+#img4{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+#img5{
+    position: absolute;
+    top: 800px;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+.label{
+    background-color: #4aaaa5;
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    width: 200px;
+    height: 200px;
+    color: white;
+}
