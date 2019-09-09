@@ -61,6 +61,8 @@ h1{
 
 img{
     float: left;
+    width: 200px;
+    height: 200px;
     margin-right: 20px;
     margin-botom: 5px;
 }
@@ -69,4 +71,7 @@ p{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     color: grey;
+}
+a:hover{
+    background-color: #b5aeae;
 }
